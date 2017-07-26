@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# docker-php-nginx-apache-starter
-Test your php website with nginx and apache environment concurrently.
+docker-php-nginx-apache-starter
+=======
 
+Test your php website with nginx and apache environment concurrently.
 ## Installation
 1. docker-compose up
 2. Open your browser
@@ -10,8 +10,4 @@ Test your php website with nginx and apache environment concurrently.
 
 ------
 
-That's all
-=======
-# docker-php-nginx-apache
-Test your php website with nginx and apache environment concurrently.
->>>>>>> e783d6f0074423876cc1443bbab62b0183f2be77
+That's all!
